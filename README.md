@@ -7,7 +7,7 @@ and development.
 ---
 
 
-<div style="text-align: center">
+<div align="center">
     <div>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
         <img src="https://skillicons.dev/icons?i=regex" alt="RegEx" title="RegEx">
