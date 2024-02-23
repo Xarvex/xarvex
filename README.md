@@ -8,15 +8,7 @@ and development.
 
 
 <div align="center">
-    <div>
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
-        <img src="https://skillicons.dev/icons?i=regex" alt="RegEx" title="RegEx">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
-        <img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim">
-        <img src="https://skillicons.dev/icons?i=bots" alt="bots" title="bots">
-    </div>
+    <h3>Toolbox</h3>
     <div>
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust">
         <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go">
@@ -27,6 +19,14 @@ and development.
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
         <img src="https://skillicons.dev/icons?i=lua" alt="Lua" title="Lua">
         <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" title="SQL">
+    </div>
+    <h3>Toolbelt</h3>
+    <div>
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
+        <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" title="Neovim">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" title="Postgres">
     </div>
 </div>
 
