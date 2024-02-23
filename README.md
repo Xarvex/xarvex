@@ -18,6 +18,7 @@ and development.
         <img src="https://skillicons.dev/icons?i=bots" alt="bots" title="bots">
     </div>
     <div>
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust">
         <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go">
         <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin">
