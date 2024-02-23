@@ -1,4 +1,4 @@
-# I'm *Xarvex*!
+# I'm *Xarvex*! 🇸🇪
 
 University student studying cybersecurity, with a deep interest in technology
 and development.
