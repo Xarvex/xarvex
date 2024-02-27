@@ -106,3 +106,13 @@ Once you are comfortable using it, you can be done, essentially!
 Training modules:
 - [vimtutor](https://linux.die.net/man/1/vimtutor) (comes with Vim)
 - [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) (Neovim plugin by [ThePrimeagen](https://github.com/ThePrimeagen))
+
+Of course, some of the boring elements is reading documentation, and as tedious as it sounds there is a lot to read about:
+- [Vim documentation](https://www.vim.org/docs.php) from the official [Vim organization](https://www.vim.org)
+- [how2nvim](https://github.com/AlphaKeks/how2nvim) by [AlphaKeks](https://github.com/AlphaKeks)
+- [Vim help.txt](https://vimhelp.org) (`:help` or `:h`)
+- [Neovim help.txt](https://neo.vimhelp.org) (`:help` or `:h`)
+
+Keep in mind those help commands! They can be used to search for help on most topics right within the editor,
+such as `:h diff` to lookup help about Vim's diff feature.
+Particularly `:h user-manual` provides in-depth usage information.
